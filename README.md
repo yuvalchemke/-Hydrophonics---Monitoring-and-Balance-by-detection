@@ -31,24 +31,23 @@ Nutrient solution temperature influences several important variables, foremost o
 
 The temperature of the nutrient solution is generally optimum between 15.5° and 26°. Some plants such as lettuce, alstroemeria and strawberries like it near the lower end, whereas tomatoes, cucumbers and cannabis do best near 26° 
 
-[ESP-32](https://he.aliexpress.com/item/1005003818247483.html?spm=a2g0o.productlist.0.0.755710d1jXgc9F&algo_pvid=285495db-7b43-4cc5-bc67-508cdd252f7d&algo_exp_id=285495db-7b43-4cc5-bc67-508cdd252f7d-15&pdp_ext_f=%7B%22sku_id%22%3A%2212000027263733305%22%7D&pdp_npi=2%40dis%21ILS%21%216.46%21%21%21%21%21%402100bddf16578052994232769e06b1%2112000027263733305%21sea&gatewayAdapt=glo2isr)
-
 # Hardware
 
 <ins>Components and links to order</ins>
 
-  1. 1 X ESP-32 [shorturl.at/aBO56](url)
-  2. 1 X Arduino NANO [(shorturl.at/zCJ79)]
-  3. 2 X Buck converter (12v to 5v) [(shorturl.at/bkpxZ)]
-  4. 2 X Relay - 5v two channel Relay shorturl.at/bdnU2
-  5. 3 X Paristeltics pumps shorturl.at/MP028
-  6. 1 X pH sensor (we are not recommending on our sensor - shorturl.at/dkmpZ )
-  7. 1 X Temprature sensor shorturl.at/ikLR2
-  8. 2 X Breadboard shorturl.at/hlrx4
-  9. 1 X 4.7kΩ Resistor
-  10. 1 X 1kΩ Resistor  shorturl.at/aLY03
+  1. 1 X [ESP-32](https://he.aliexpress.com/item/1005003818247483.html?spm=a2g0o.productlist.0.0.755710d1jXgc9F&algo_pvid=285495db-7b43-4cc5-bc67-508cdd252f7d&algo_exp_id=285495db-7b43-4cc5-bc67-508cdd252f7d-15&pdp_ext_f=%7B%22sku_id%22%3A%2212000027263733305%22%7D&pdp_npi=2%40dis%21ILS%21%216.46%21%21%21%21%21%402100bddf16578052994232769e06b1%2112000027263733305%21sea&gatewayAdapt=glo2isr)
+  2. 1 X [Arduino NANO](https://he.aliexpress.com/item/1005002998391675.html?spm=a2g0o.productlist.0.0.54e05756lGYh1R&ad_pvid=2022071406290953027619617560000749088_1&s=p&gatewayAdapt=glo2isr)
+  3. 2 X [Buck converter (12v to 5v)](https://he.aliexpress.com/item/10000002339702.html?spm=a2g0o.detail.0.0.294b1847SIMREr&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.274681.0&scm_id=1007.13339.274681.0&scm-url=1007.13339.274681.0&pvid=ace70ad4-e550-4345-b4ab-54ea09ff477f&_t=gps-id%3ApcDetailBottomMoreThisSeller%2Cscm-url%3A1007.13339.274681.0%2Cpvid%3Aace70ad4-e550-4345-b4ab-54ea09ff477f%2Ctpp_buckets%3A668%232846%238114%231999&pdp_ext_f=%7B%22sku_id%22%3A%2220000000006402560%22%2C%22sceneId%22%3A%223339%22%7D&pdp_npi=2%40dis%21ILS%21%212.27%21%21%21%21%21%40210323b116578058404375704e610c%2120000000006402560%21rec&gatewayAdapt=glo2isr
+)
+  4. 2 X [Relay - 5v two channel Relay](https://he.aliexpress.com/item/4000674991518.html?UTABTest=aliabtest298352_419680&_randl_currency=ILS&_randl_shipto=IL&src=google&src=google&albch=shopping&acnt=494-037-6276&slnk=&plac=&mtctp=&albbt=Google_7_shopping&albagn=888888&isSmbAutoCall=false&needSmbHouyi=false&albcp=17227132441&albag=142311656371&trgt=297309937645&crea=he4000674991518&netw=u&device=c&albpg=297309937645&albpd=he4000674991518&gclid=CjwKCAjw_b6WBhAQEiwAp4HyIM8hmH9XeiPo0QNMmrY1NCm0EHe1VbSrDzy00FFY65TZhXg7OUFltRoCx0sQAvD_BwE&gclsrc=aw.ds&aff_fcid=fe301d473e5142edbc4bfe168577a351-1657805511283-00898-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=fe301d473e5142edbc4bfe168577a351-1657805511283-00898-UneMJZVf&terminal_id=c52e62a381e74c6886088c5b6617a2f0&OLP=1082800308_f_group0&o_s_id=1082800308&afSmartRedirect=y&gatewayAdapt=glo2isr)
+  5. 3 X [Paristeltics pumps](https://he.aliexpress.com/item/1005001888639071.html?UTABTest=aliabtest298352_419680&_randl_currency=ILS&_randl_shipto=IL&src=google&src=google&albch=shopping&acnt=494-037-6276&slnk=&plac=&mtctp=&albbt=Google_7_shopping&albagn=888888&isSmbAutoCall=false&needSmbHouyi=false&albcp=17227132441&albag=142311656371&trgt=297309937645&crea=he1005001888639071&netw=u&device=c&albpg=297309937645&albpd=he1005001888639071&gclid=CjwKCAjw_b6WBhAQEiwAp4HyIMU_e4FOBOESbVY6vY1WpouCjl_dG-tpHimhXTTrDFjyNAgjJlNWjxoCnyIQAvD_BwE&gclsrc=aw.ds&aff_fcid=cfa083dc7f11490f8bfc5443c137a2ea-1657805572131-03532-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=cfa083dc7f11490f8bfc5443c137a2ea-1657805572131-03532-UneMJZVf&terminal_id=c52e62a381e74c6886088c5b6617a2f0&OLP=1082800308_f_group0&o_s_id=1082800308&afSmartRedirect=y&gatewayAdapt=glo2isr)
+  6. 1 X [pH sensor](https://he.aliexpress.com/item/1005001612930856.html?spm=a2g0o.productlist.0.0.76c93260uPpsCb&algo_pvid=6ee9ad07-3560-4422-830a-2d3afe39ee6a&algo_exp_id=6ee9ad07-3560-4422-830a-2d3afe39ee6a-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000016815747832%22%7D&pdp_npi=2%40dis%21ILS%21%2160.86%21%21%21%21%21%402100bdde16578051561284501e60af%2112000016815747832%21sea)
+  7. 1 X [Temprature sensor](url)
+  8. 2 X [Breadboard](url)
+  9. 1 X [4.7kΩ Resistor](url)
+  10. 1 X 1kΩ Resistor
   11. 2 X 10kΩ Resistor
-  12. Jumpers a lot! shorturl.at/cGITY
+  12. [Jumpers a lot!](url)
   
  <ins>Circuit Diagram</ins>
  ![פריטצינג](https://user-images.githubusercontent.com/109233742/178999706-d02ac94c-66c8-4eb0-b16b-0e4afe13968e.jpeg)
