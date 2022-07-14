@@ -87,5 +87,3 @@ In our code we are using wifi and uploading to thingspeak for review the values 
 
 <ins>Arduino NANO</ins>
 
-
-
