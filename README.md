@@ -23,3 +23,8 @@ A pH test shows whether a substance is acidic or alkaline. The pH scale ranges f
 
 Nutrient solutions used for soilless culture should have a pH between 5 to 6 (usually 5.5), so the pH in the root environment is maintained between 6 to 6.5. This is the pH range at which nutrients are most readily available to plants.
 
+<ins>Temprature</ins>
+
+Nutrient solution temperature influences several important variables, foremost of which are oxygen solubility and plant metabolic processes. With rising temperatures, the rate of metabolic reactions occurring in the plants will increase.
+
+The temperature of the nutrient solution is generally optimum between 15.5° and 24°. Some plants such as lettuce, alstroemeria and strawberries like it near the lower end, whereas tomatoes, cucumbers and cannabis do best near 24° 
