@@ -63,7 +63,7 @@ The temperature of the nutrient solution is generally optimum between 15.5° and
 
 <ins>pH sensor calibartion</ins>
 
-for doing that we took an acidic solution with a starting pH 2 and a bottle of alkaline solution, put inside it an accurate sensor and ours. 
+For doing the calibartion we took an acidic solution with a starting pH 2 and a bottle of alkaline solution, put inside it an accurate sensor and ours. 
 at first, we built an Exel chart writing our analog pin read at one column and the pH value at the second. then we started dropping alkaline to the cup, mixed it and waited one minute before registers our new pair of values. we suggests collecting at least five pairs. 
 when finished with the measures make a full chart with a straight line equation, notice your R. that equation you'll dropped to the code.
 
@@ -73,6 +73,9 @@ when finished with the measures make a full chart with a straight line equation,
 
   
 <ins>EC sensor calibartion</ins>
+ 
+ For the EC calibartion we also needed to mesure the temprature beacuse it influence the EC. we took a few solution whith diffrent value, in each solution we put inside it an accurate sensor and ours. in our code there is a coefficient - "K" we change "k" in our code until it was accurate enouth to our opinion (+- 1000 ppm range).
+ 
  
    <img src="כיול איסי אצל נמרוד שוורץ.jpeg" width="443" height="591">
 
