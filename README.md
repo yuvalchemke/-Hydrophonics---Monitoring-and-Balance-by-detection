@@ -48,7 +48,7 @@ The temperature of the nutrient solution is generally optimum between 15.5° and
   12. Jumpers a lot! shorturl.at/cGITY
   
  <ins>Circuit Diagram</ins>
- ![פרוייקט גמר הידרופוני_bb](https://user-images.githubusercontent.com/109233742/178997415-74ffeb40-f116-40ce-b94d-66ab1381a8a2.jpg)
+ ![פריטצינג](https://user-images.githubusercontent.com/109233742/178999706-d02ac94c-66c8-4eb0-b16b-0e4afe13968e.jpeg)
 ![WhatsApp Image 2022-07-13 at 22 20 02 (2)](https://user-images.githubusercontent.com/109233742/178998765-0efa04d0-729d-41ea-9069-ab857aa288cb.jpeg)
 
 
