@@ -10,12 +10,16 @@ This project is about making your growing hydrophonics much easier!
 !!!*There is currently a problem with the pH sensor, it is unable to be calibrated. After many attempts with different devices from the same model we recommend that you try another model*!!!
 
 # Agri-tech prespection
-EC
+
+<ins>EC</ins>
 
 In hydroponics, an EC measurement can be used as an indicator of how many dissolved salts are present, and thus the corresponding strength of a nutrient solution. The most common conductivity meter used in hydroponics is the two-pole sensor. This technology offers a limited range but is relatively inexpensive.
 
 For most plants you want the EC measurement to be hitting between 1.2-1.6 during the vegetative stage and 1.6-2.4 during flowering, but this can be dependent on the type of plant that's growing.
 
-<pH>
-  
-  pH
+<ins>pH</ins>
+
+A pH test shows whether a substance is acidic or alkaline. The pH scale ranges from 0 to 14, with 0 being the most acidic, 14 the most alkaline, and 7 is the pH-neutral point.
+
+Nutrient solutions used for soilless culture should have a pH between 5 to 6 (usually 5.5), so the pH in the root environment is maintained between 6 to 6.5. This is the pH range at which nutrients are most readily available to plants.
+
