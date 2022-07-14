@@ -51,20 +51,20 @@ The temperature of the nutrient solution is generally optimum between 15.5° and
   12. [Jumpers a lot!](https://he.aliexpress.com/item/1005003252824475.html?spm=a2g0o.search0304.0.0.5fab692f1DqEZK&algo_pvid=a722cf1e-c2ba-4fde-b94f-ef8fe25a6ce9&algo_exp_id=a722cf1e-c2ba-4fde-b94f-ef8fe25a6ce9-13&pdp_ext_f=%7B%22sku_id%22%3A%2212000024867532507%22%7D&pdp_npi=2%40dis%21ILS%21%2114.17%21%21%211.38%21%21%400b0a187b16578059214857204e2875%2112000024867532507%21sea&gatewayAdapt=glo2isr)
   
  <ins>Circuit Diagram</ins>
- ![פריטצינג](https://user-images.githubusercontent.com/109233742/178999706-d02ac94c-66c8-4eb0-b16b-0e4afe13968e.jpeg)
-![WhatsApp Image 2022-07-13 at 22 20 02 (2)](https://user-images.githubusercontent.com/109233742/178998765-0efa04d0-729d-41ea-9069-ab857aa288cb.jpeg)
-
-
+ <img src="פריטצינג.jpeg" width="500" height="500">
+ <img src="קופסת פריטצינג.jpeg" width="500" height="500">
 
 <ins>All the three sensors together</ins>
 
+ <img src="שלושת החיישנים.jpeg" width="500" height="500">
+
 <ins>pH sensor calibartion</ins>
 
-![כיול פיאייץ אצל אסף מוסקונה](https://user-images.githubusercontent.com/109233742/179005065-36578449-4498-4bb2-8563-085e91ce172e.jpeg)
-![כיול פיאייץ אצל יעל מישאל](https://user-images.githubusercontent.com/109233742/179005073-6bfef0ca-1f0f-47e4-a42a-8b779bac1dec.jpeg)
-
+ <img src="כיול פיאייץ אצל יעל מישאל.jpeg" width="500" height="500">
+  <img src="כיול פיאייץ אצל אסף מוסקונה.jpeg" width="500" height="500">
+  
 <ins>EC sensor calibartion</ins>
  
-![כיול איסי אצל נמרוד שוורץ](https://user-images.githubusercontent.com/109233742/179005125-52f02191-a069-4a2a-a8b5-548e118ac8ff.jpeg)
+   <img src="כיול איסי אצל נמרוד שוורץ.jpeg" width="500" height="500">
 
 
