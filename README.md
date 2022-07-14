@@ -27,4 +27,4 @@ Nutrient solutions used for soilless culture should have a pH between 5 to 6 (us
 
 Nutrient solution temperature influences several important variables, foremost of which are oxygen solubility and plant metabolic processes. With rising temperatures, the rate of metabolic reactions occurring in the plants will increase.
 
-The temperature of the nutrient solution is generally optimum between 15.5° and 24°. Some plants such as lettuce, alstroemeria and strawberries like it near the lower end, whereas tomatoes, cucumbers and cannabis do best near 24° 
+The temperature of the nutrient solution is generally optimum between 15.5° and 26°. Some plants such as lettuce, alstroemeria and strawberries like it near the lower end, whereas tomatoes, cucumbers and cannabis do best near 26° 
