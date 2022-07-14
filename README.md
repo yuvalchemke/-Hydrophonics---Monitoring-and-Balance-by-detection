@@ -104,7 +104,7 @@ In the next three graphs represents what is the current status of every pump and
 The number 0 represent that the pump is not in activ, and the number 1 represent that the pump is in activ or worked (according to the time that you looking at).
 In our case we decided that when a pump is turned on it will work for 8 seconds (you can change the time for each pump in the code according to your needs) and then turn off until the next need in balance. 
 
- <img src="pH+ pump.png" width="675" height="388">
+ <img src="https://github.com/yuvalchemke/-Hydrophonics---Monitoring-and-Balance-by-detection/blob/The-thingspeak-graphs/pH-%20pump.png" width="675" height="388">
  <img src="pH- pump.png" width="675" height="388">
  <img src="PPM pump.png" width="675" height="388">
 
