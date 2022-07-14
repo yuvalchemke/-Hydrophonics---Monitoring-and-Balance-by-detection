@@ -9,7 +9,7 @@ This project is about making your growing hydrophonics much easier!
 
 !!!*There is currently a problem with the pH sensor, it is unable to be calibrated. After many attempts with different devices from the same model we recommend that you try another model*!!!
 
-<img src="המערכת.jpeg" width="443" height="500">
+<img src="https://github.com/yuvalchemke/-Hydrophonics---Monitoring-and-Balance-by-detection/blob/Images/The%20system.jpeg" width="443" height="500">
 
 # Agri-tech prespection
 
@@ -53,14 +53,14 @@ The temperature of the nutrient solution is generally optimum between 15.5° and
   
  <ins>Circuit Diagram</ins>
  
- <img src="פריטצינג.jpeg" width="589" height="445">
+ <img src="https://github.com/yuvalchemke/-Hydrophonics---Monitoring-and-Balance-by-detection/blob/Images/Fritzing.jpeg" width="589" height="445">
  
- <img src="קופסת פריטצינג.jpeg" width="443" height="591">
+ <img src="https://github.com/yuvalchemke/-Hydrophonics---Monitoring-and-Balance-by-detection/blob/Images/Our%20circule.jpeg" width="443" height="591">
 
 
 <ins>All the three sensors together</ins>
 
- <img src="שלושת החיישנים.jpeg" width="500" height="500">
+ <img src="https://github.com/yuvalchemke/-Hydrophonics---Monitoring-and-Balance-by-detection/blob/Images/All%20the%20three%20sensors.jpeg" width="500" height="500">
 
 <ins>pH sensor calibartion</ins>
 
@@ -68,9 +68,9 @@ For doing the calibartion we took an acidic solution with a starting pH 2 and a 
 at first, we built an Exel chart writing our analog pin read at one column and the pH value at the second. then we started dropping alkaline to the cup, mixed it and waited one minute before registers our new pair of values. we suggests collecting at least five pairs. 
 when finished with the measures make a full chart with a straight line equation, notice your R. that equation you'll dropped to the code.
 
- <img src="כיול פיאייץ אצל יעל מישאל.jpeg" width="443" height="591">
+<img src="https://github.com/yuvalchemke/-Hydrophonics---Monitoring-and-Balance-by-detection/blob/Images/pH%20calibration%201.jpeg" width="443" height="591">
 
-  <img src="כיול פיאייץ אצל אסף מוסקונה.jpeg" width="443" height="591">
+<img src="https://github.com/yuvalchemke/-Hydrophonics---Monitoring-and-Balance-by-detection/blob/Images/pH%20calibration%202.jpeg" width="443" height="591">
 
   
 <ins>EC sensor calibartion</ins>
@@ -79,7 +79,7 @@ For the EC calibartion we also needed to mesure the temprature beacuse it influe
 
 The EC and the temprature monitoring we are doing in arduino NANO and sending the reasults to the esp-32, the esp-32 can only reading strings so in the esp-32 you will also see the converting from string to flout. 
  
-   <img src="כיול איסי אצל נמרוד שוורץ.jpeg" width="443" height="591">
+<img src="https://github.com/yuvalchemke/-Hydrophonics---Monitoring-and-Balance-by-detection/blob/Images/EC%20calibration.jpeg" width="443" height="591">
 
 # Code
 
