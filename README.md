@@ -1,5 +1,5 @@
-# -Hydrophonics---Monitoring-and-Balance-by-detection
-# -Introduction-
+# Hydrophonics Monitoring and Balance by detection
+# Introduction
 
 The main purpse of this project is to make a self balanced home and office hydrophonics system, which need one asssembly, one coding and then it's ready to GO!
 
@@ -30,7 +30,7 @@ Nutrient solution temperature influences several important variables, foremost o
 The temperature of the nutrient solution is generally optimum between 15.5° and 26°. Some plants such as lettuce, alstroemeria and strawberries like it near the lower end, whereas tomatoes, cucumbers and cannabis do best near 26° 
 
 
-# -Hardware-
+# Hardware
 
 <ins>Components and links to order</ins>
 
@@ -57,3 +57,4 @@ The temperature of the nutrient solution is generally optimum between 15.5° and
 <ins>EC sensor calibartion</ins>
  
 
+https://thingspeak.com/channels/1755491/private_show
