@@ -34,8 +34,8 @@ The temperature of the nutrient solution is generally optimum between 15.5° and
 
 <ins>Components and links to order</ins>
 
-  1. 1 X ESP-32 shorturl.at/aBO56
-  2. 1 X Arduino NANO shorturl.at/zCJ79
+  1. 1 X ESP-32 [shorturl.at/aBO56]
+  2. 1 X Arduino NANO [shorturl.at/zCJ79]
   3. 2 X Buck converter (12v to 5v) shorturl.at/bkpxZ
   4. 2 X Relay - 5v two channel Relay shorturl.at/bdnU2
   5. 3 X Paristeltics pumps shorturl.at/MP028
@@ -57,4 +57,3 @@ The temperature of the nutrient solution is generally optimum between 15.5° and
 <ins>EC sensor calibartion</ins>
  
 
-https://thingspeak.com/channels/1755491/private_show
