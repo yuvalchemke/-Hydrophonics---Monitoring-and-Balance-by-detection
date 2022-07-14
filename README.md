@@ -67,4 +67,5 @@ The temperature of the nutrient solution is generally optimum between 15.5° and
  
 ![כיול איסי אצל נמרוד שוורץ](https://user-images.githubusercontent.com/109233742/179005125-52f02191-a069-4a2a-a8b5-548e118ac8ff.jpeg)
 
-
+![](![כיול איסי אצל נמרוד שוורץ](https://user-images.githubusercontent.com/109233742/179005125-52f02191-a069-4a2a-a8b5-548e118ac8ff.jpeg)
+=250x250)
