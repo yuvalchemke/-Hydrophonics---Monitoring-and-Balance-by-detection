@@ -7,5 +7,5 @@ The system abilities are monitoring EC, Temprature and pH of hydrophonics system
 
 This project is about making your growing hydrophonics much easier!
 
-!!!*There is currently a problem with the pH sensor, it is unable to calibrate and remain at a stable value. After many attempts with different devices from the same model we recommend that you try another model.*!!!
+!!!*There is currently a problem with the pH sensor, it is unable to be calibrated. After many attempts with different devices from the same model we recommend that you try another model.*!!!
 
