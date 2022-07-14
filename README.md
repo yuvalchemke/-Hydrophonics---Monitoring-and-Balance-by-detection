@@ -46,3 +46,9 @@ The temperature of the nutrient solution is generally optimum between 15.5° and
   10. 1 X 1kΩ Resistor  shorturl.at/aLY03
   11. 2 X 10kΩ Resistor
   12. Jumpers a lot! shorturl.at/cGITY
+  
+ <ins>Circuit Diagram</ins>
+ ![פרוייקט גמר הידרופוני_bb](https://user-images.githubusercontent.com/109233742/178997415-74ffeb40-f116-40ce-b94d-66ab1381a8a2.jpg)
+
+ 
+
