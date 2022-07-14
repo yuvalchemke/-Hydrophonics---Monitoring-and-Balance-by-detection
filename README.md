@@ -45,10 +45,11 @@ The temperature of the nutrient solution is generally optimum between 15.5° and
   7. 1 X [Temprature sensor](https://he.aliexpress.com/item/32580791476.html?spm=a2g0o.productlist.0.0.1ef238ddJsnH8J&algo_pvid=201221b0-10fb-49f9-ab89-67882b0cf028&aem_p4p_detail=202207140627549418085009667600002143701&algo_exp_id=201221b0-10fb-49f9-ab89-67882b0cf028-19&pdp_ext_f=%7B%22sku_id%22%3A%2258675593995%22%7D&pdp_npi=2%40dis%21ILS%21%216.21%21%21%2113.63%21%21%402100bb5116578052743317387e6bfa%2158675593995%21sea
 )
   8. 2 X [Breadboard](https://he.aliexpress.com/item/1005003640449308.html?spm=a2g0o.search0304.0.0.5fab692f1DqEZK&algo_pvid=a722cf1e-c2ba-4fde-b94f-ef8fe25a6ce9&algo_exp_id=a722cf1e-c2ba-4fde-b94f-ef8fe25a6ce9-14&pdp_ext_f=%7B%22sku_id%22%3A%2212000026608920636%22%7D&pdp_npi=2%40dis%21ILS%21%2117.36%21%21%214.23%21%21%400b0a187b16578059214857204e2875%2112000026608920636%21sea&gatewayAdapt=glo2isr)
-  9. 1 X [4.7kΩ Resistor](https://he.aliexpress.com/item/1005002364388450.html?spm=a2g0o.search0304.0.0.43184e63NZIwTJ&algo_pvid=7219ac82-a73d-4a7a-981e-907481b40f16&aem_p4p_detail=202207140640419572926933930500002376166&algo_exp_id=7219ac82-a73d-4a7a-981e-907481b40f16-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000020328334203%22%7D&pdp_npi=2%40dis%21ILS%21%2117.68%21%21%214.23%21%21%402100bb5116578060414966078e6f4d%2112000020328334203%21sea&gatewayAdapt=glo2isr)
-  10. 1 X 1kΩ Resistor
-  11. 2 X 10kΩ Resistor
-  12. [Jumpers a lot!](https://he.aliexpress.com/item/1005003252824475.html?spm=a2g0o.search0304.0.0.5fab692f1DqEZK&algo_pvid=a722cf1e-c2ba-4fde-b94f-ef8fe25a6ce9&algo_exp_id=a722cf1e-c2ba-4fde-b94f-ef8fe25a6ce9-13&pdp_ext_f=%7B%22sku_id%22%3A%2212000024867532507%22%7D&pdp_npi=2%40dis%21ILS%21%2114.17%21%21%211.38%21%21%400b0a187b16578059214857204e2875%2112000024867532507%21sea&gatewayAdapt=glo2isr)
+  9. 1 X [Electric Plug](https://he.aliexpress.com/item/1005002364388450.html?spm=a2g0o.search0304.0.0.43184e63NZIwTJ&algo_pvid=7219ac82-a73d-4a7a-981e-907481b40f16&aem_p4p_detail=202207140640419572926933930500002376166&algo_exp_id=7219ac82-a73d-4a7a-981e-907481b40f16-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000020328334203%22%7D&pdp_npi=2%40dis%21ILS%21%2117.68%21%21%214.23%21%21%402100bb5116578060414966078e6f4d%2112000020328334203%21sea&gatewayAdapt=glo2isr](https://he.aliexpress.com/item/4000402176703.html?spm=a2g0o.detail.1000060.3.5baa2266CrZh54&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.274681.0&scm_id=1007.13339.274681.0&scm-url=1007.13339.274681.0&pvid=4ef233f8-87c3-4d84-9bce-6bd683539be0&_t=gps-id%3ApcDetailBottomMoreThisSeller%2Cscm-url%3A1007.13339.274681.0%2Cpvid%3A4ef233f8-87c3-4d84-9bce-6bd683539be0%2Ctpp_buckets%3A668%232846%238114%231999&pdp_ext_f=%7B%22sku_id%22%3A%2210000001656681541%22%2C%22sceneId%22%3A%223339%22%7D&pdp_npi=2%40dis%21ILS%21%211.24%21%21%21%21%21%402103239b16578181065495049e1581%2110000001656681541%21rec&gatewayAdapt=glo2isr))
+  10. 1 X [4.7kΩ Resistor](https://he.aliexpress.com/item/1005002364388450.html?spm=a2g0o.search0304.0.0.43184e63NZIwTJ&algo_pvid=7219ac82-a73d-4a7a-981e-907481b40f16&aem_p4p_detail=202207140640419572926933930500002376166&algo_exp_id=7219ac82-a73d-4a7a-981e-907481b40f16-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000020328334203%22%7D&pdp_npi=2%40dis%21ILS%21%2117.68%21%21%214.23%21%21%402100bb5116578060414966078e6f4d%2112000020328334203%21sea&gatewayAdapt=glo2isr)
+  11. 1 X 1kΩ Resistor
+  12. 2 X 10kΩ Resistor
+  13. [Jumpers a lot!](https://he.aliexpress.com/item/1005003252824475.html?spm=a2g0o.search0304.0.0.5fab692f1DqEZK&algo_pvid=a722cf1e-c2ba-4fde-b94f-ef8fe25a6ce9&algo_exp_id=a722cf1e-c2ba-4fde-b94f-ef8fe25a6ce9-13&pdp_ext_f=%7B%22sku_id%22%3A%2212000024867532507%22%7D&pdp_npi=2%40dis%21ILS%21%2114.17%21%21%211.38%21%21%400b0a187b16578059214857204e2875%2112000024867532507%21sea&gatewayAdapt=glo2isr)
   
  <ins>Circuit Diagram</ins>
  
@@ -75,13 +76,14 @@ when finished with the measures make a full chart with a straight line equation,
 <ins>EC sensor calibartion</ins>
  
 For the EC calibartion we also needed to mesure the temprature beacuse it influence the EC. we took a few solution whith diffrent value, in each solution we put inside it an accurate sensor and ours. in our code there is a coefficient - "K" we change "k" in our code until it was accurate enouth to our opinion (+- 1000 ppm range).
+
 The EC and the temprature monitoring we are doing in arduino NANO and sending the reasults to the esp-32, the esp-32 can only reading strings so in the esp-32 you will also see the converting from string to flout. 
  
    <img src="כיול איסי אצל נמרוד שוורץ.jpeg" width="443" height="591">
 
 # Code
 
-In our code we are using wifi and uploading to thingspeak.
+In our code we are using wifi and uploading to thingspeak for review the values in live.
 
 <ins>Arduino NANO</ins>
 
