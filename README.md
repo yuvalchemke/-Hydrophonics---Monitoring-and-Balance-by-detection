@@ -9,12 +9,7 @@ This project is about making your growing hydrophonics much easier!
 
 !!!*There is currently a problem with the pH sensor, it is unable to be calibrated. After many attempts with different devices from the same model we recommend that you try another model*!!!
 
-![WhatsApp Image 2022-07-13 at 22 20 00 (2)](https://user-images.githubusercontent.com/109233742/179001260-5c865339-d603-4b53-944d-10a362ce89dc.jpeg)
-
-<img src="(https://user-images.githubusercontent.com/109233742/179001260-5c865339-d603-4b53-944d-10a362ce89dc.jpeg)" width="500" height="500">
-
-
-
+<img src="המערכת.jpeg" width="500" height="500">
 
 # Agri-tech prespection
 
