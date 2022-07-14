@@ -31,7 +31,7 @@ Nutrient solution temperature influences several important variables, foremost o
 
 The temperature of the nutrient solution is generally optimum between 15.5° and 26°. Some plants such as lettuce, alstroemeria and strawberries like it near the lower end, whereas tomatoes, cucumbers and cannabis do best near 26° 
 
-
+[ESP-32](shorturl.at/aBO56)
 # Hardware
 
 <ins>Components and links to order</ins>
