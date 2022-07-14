@@ -74,10 +74,16 @@ when finished with the measures make a full chart with a straight line equation,
   
 <ins>EC sensor calibartion</ins>
  
- For the EC calibartion we also needed to mesure the temprature beacuse it influence the EC. we took a few solution whith diffrent value, in each solution we put inside it an accurate sensor and ours. in our code there is a coefficient - "K" we change "k" in our code until it was accurate enouth to our opinion (+- 1000 ppm range).
- 
+For the EC calibartion we also needed to mesure the temprature beacuse it influence the EC. we took a few solution whith diffrent value, in each solution we put inside it an accurate sensor and ours. in our code there is a coefficient - "K" we change "k" in our code until it was accurate enouth to our opinion (+- 1000 ppm range).
+The EC and the temprature monitoring we are doing in arduino NANO and sending the reasults to the esp-32, the esp-32 can only reading strings so in the esp-32 you will also see the converting from string to flout. 
  
    <img src="כיול איסי אצל נמרוד שוורץ.jpeg" width="443" height="591">
+
+# Code
+
+In our code we are using wifi and uploading to thingspeak.
+
+<ins>Arduino NANO</ins>
 
 
 
