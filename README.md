@@ -28,3 +28,21 @@ Nutrient solutions used for soilless culture should have a pH between 5 to 6 (us
 Nutrient solution temperature influences several important variables, foremost of which are oxygen solubility and plant metabolic processes. With rising temperatures, the rate of metabolic reactions occurring in the plants will increase.
 
 The temperature of the nutrient solution is generally optimum between 15.5° and 26°. Some plants such as lettuce, alstroemeria and strawberries like it near the lower end, whereas tomatoes, cucumbers and cannabis do best near 26° 
+
+
+# -Hardware-
+
+<ins>Components and links to order</ins>
+
+  1. 1 X ESP-32 shorturl.at/aBO56
+  2. 1 X Arduino NANO shorturl.at/zCJ79
+  3. 2 X Buck converter (12v to 5v) shorturl.at/bkpxZ
+  4. 2 X Relay - 5v two channel Relay shorturl.at/bdnU2
+  5. 3 X Paristeltics pumps shorturl.at/MP028
+  6. 1 X pH sensor (we are not recommending on our sensor - shorturl.at/dkmpZ )
+  7. 1 X Temprature sensor shorturl.at/ikLR2
+  8. 2 X Breadboard shorturl.at/hlrx4
+  9. 1 X 4.7kΩ Resistor
+  10. 1 X 1kΩ Resistor  shorturl.at/aLY03
+  11. 2 X 10kΩ Resistor
+  12. Jumpers a lot! shorturl.at/cGITY
