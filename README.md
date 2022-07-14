@@ -55,9 +55,16 @@ The temperature of the nutrient solution is generally optimum between 15.5° and
 ![WhatsApp Image 2022-07-13 at 22 20 02 (2)](https://user-images.githubusercontent.com/109233742/178998765-0efa04d0-729d-41ea-9069-ab857aa288cb.jpeg)
 
 
+
+<ins>All the three sensors together</ins>
+
 <ins>pH sensor calibartion</ins>
+
+![כיול פיאייץ אצל אסף מוסקונה](https://user-images.githubusercontent.com/109233742/179005065-36578449-4498-4bb2-8563-085e91ce172e.jpeg)
+![כיול פיאייץ אצל יעל מישאל](https://user-images.githubusercontent.com/109233742/179005073-6bfef0ca-1f0f-47e4-a42a-8b779bac1dec.jpeg)
 
 <ins>EC sensor calibartion</ins>
  
+![כיול איסי אצל נמרוד שוורץ](https://user-images.githubusercontent.com/109233742/179005125-52f02191-a069-4a2a-a8b5-548e118ac8ff.jpeg)
 
-https://thingspeak.com/channels/1755491/private_show
+
