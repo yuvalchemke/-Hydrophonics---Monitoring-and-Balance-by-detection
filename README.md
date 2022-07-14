@@ -57,3 +57,4 @@ The temperature of the nutrient solution is generally optimum between 15.5° and
 <ins>EC sensor calibartion</ins>
  
 
+https://thingspeak.com/channels/1755491/private_show
