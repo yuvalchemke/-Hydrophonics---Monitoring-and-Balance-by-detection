@@ -9,6 +9,8 @@ This project is about making your growing hydrophonics much easier!
 
 !!!*There is currently a problem with the pH sensor, it is unable to be calibrated. After many attempts with different devices from the same model we recommend that you try another model*!!!
 
+![WhatsApp Image 2022-07-13 at 22 20 00 (2)](https://user-images.githubusercontent.com/109233742/179001260-5c865339-d603-4b53-944d-10a362ce89dc.jpeg)
+
 # Agri-tech prespection
 
 <ins>EC</ins>
@@ -34,7 +36,7 @@ The temperature of the nutrient solution is generally optimum between 15.5° and
 
 <ins>Components and links to order</ins>
 
-  1. 1 X [ESP-32] (shorturl.at/aBO56)
+  1. 1 X ESP-32 [shorturl.at/aBO56](url)
   2. 1 X Arduino NANO [(shorturl.at/zCJ79)]
   3. 2 X Buck converter (12v to 5v) [(shorturl.at/bkpxZ)]
   4. 2 X Relay - 5v two channel Relay shorturl.at/bdnU2
