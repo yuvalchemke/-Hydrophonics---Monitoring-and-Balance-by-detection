@@ -11,7 +11,9 @@ This project is about making your growing hydrophonics much easier!
 
 ![WhatsApp Image 2022-07-13 at 22 20 00 (2)](https://user-images.githubusercontent.com/109233742/179001260-5c865339-d603-4b53-944d-10a362ce89dc.jpeg)
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/109233742/179001260-5c865339-d603-4b53-944d-10a362ce89dc.jpeg)" width="500" height="500">
+<img src="(https://user-images.githubusercontent.com/109233742/179001260-5c865339-d603-4b53-944d-10a362ce89dc.jpeg)" width="500" height="500">
+
+
 
 
 # Agri-tech prespection
