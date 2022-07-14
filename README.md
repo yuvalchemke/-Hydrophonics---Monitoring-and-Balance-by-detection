@@ -51,7 +51,8 @@ The temperature of the nutrient solution is generally optimum between 15.5° and
   12. [Jumpers a lot!](https://he.aliexpress.com/item/1005003252824475.html?spm=a2g0o.search0304.0.0.5fab692f1DqEZK&algo_pvid=a722cf1e-c2ba-4fde-b94f-ef8fe25a6ce9&algo_exp_id=a722cf1e-c2ba-4fde-b94f-ef8fe25a6ce9-13&pdp_ext_f=%7B%22sku_id%22%3A%2212000024867532507%22%7D&pdp_npi=2%40dis%21ILS%21%2114.17%21%21%211.38%21%21%400b0a187b16578059214857204e2875%2112000024867532507%21sea&gatewayAdapt=glo2isr)
   
  <ins>Circuit Diagram</ins>
- <img src="פריטצינג.jpeg" width="400" height="500">
+ 
+ <img src="פריטצינג.jpeg" width="589" height="445">
  
  <img src="קופסת פריטצינג.jpeg" width="443" height="591">
 
@@ -61,6 +62,10 @@ The temperature of the nutrient solution is generally optimum between 15.5° and
  <img src="שלושת החיישנים.jpeg" width="500" height="500">
 
 <ins>pH sensor calibartion</ins>
+
+for doing that we took an acidic solution with a starting pH 2 and a bottle of alkaline solution, put inside it an accurate sensor and ours. 
+at first, we built an Exel chart writing our analog pin read at one column and the pH value at the second. then we started dropping alkaline to the cup, mixed it and waited one minute before registers our new pair of values. we suggests collecting at least five pairs. 
+when finished with the measures make a full chart with a straight line equation, notice your R. that equation you'll dropped to the code.
 
  <img src="כיול פיאייץ אצל יעל מישאל.jpeg" width="443" height="591">
 
