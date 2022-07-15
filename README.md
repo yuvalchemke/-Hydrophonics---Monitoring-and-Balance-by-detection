@@ -97,9 +97,9 @@ In our
 
 In the next three graphs you can see an example to the values in each sensor
 
-<img src="https://github.com/yuvalchemke/-Hydrophonics---Monitoring-and-Balance-by-detection/blob/The-thingspeak-graphs/PPM%20value.png" width="675" height="388">
-<img src="https://github.com/yuvalchemke/-Hydrophonics---Monitoring-and-Balance-by-detection/blob/The-thingspeak-graphs/pH%20value.png" width="675" height="388">
-<img src="https://github.com/yuvalchemke/-Hydrophonics---Monitoring-and-Balance-by-detection/blob/The-thingspeak-graphs/Temprature%20value.png" width="675" height="388">
+<img src="https://github.com/yuvalchemke/-Hydrophonics---Monitoring-and-Balance-by-detection/blob/The-thingspeak-graphs/PPM%20value.png" width="500" height="287">
+<img src="https://github.com/yuvalchemke/-Hydrophonics---Monitoring-and-Balance-by-detection/blob/The-thingspeak-graphs/pH%20value.png" width="500" height="287">
+<img src="https://github.com/yuvalchemke/-Hydrophonics---Monitoring-and-Balance-by-detection/blob/The-thingspeak-graphs/Temprature%20value.png" width="500" height="287">
 
 <ins>Monitoring pumps</ins>
 
