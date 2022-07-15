@@ -85,8 +85,8 @@ The EC and the temprature monitoring we are doing in arduino NANO and sending th
 
 In our code we are using wifi and uploading to thingspeak for review the values in live.
 
-[go to](https://github.com/yuvalchemke/-Hydrophonics---Monitoring-and-Balance-by-detection/blob/main/the%20code)
-<ins>Arduino NANO</ins>
+[have a look](https://github.com/yuvalchemke/-Hydrophonics---Monitoring-and-Balance-by-detection/blob/main/the%20code)
+
 
 
 
