@@ -1,8 +1,5 @@
 
-//************************** Libraries Needed To Compile The Script [See Read me In Download] ***************//
-// Both below Library are custom ones [ SEE READ ME In Downloaded Zip If You Dont Know how To install] Use them or add a pull up resistor to the temp probe
- 
- 
+
 #include <OneWire.h>
 #include <DallasTemperature.h>
  
