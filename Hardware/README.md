@@ -29,6 +29,17 @@
 
  <img src="https://github.com/yuvalchemke/-Hydrophonics---Monitoring-and-Balance-by-detection/blob/Images/All%20the%20three%20sensors.jpeg" width="500" height="500">
 
+
+<ins>Pumps box</ins>
+
+ <img src="https://github.com/yuvalchemke/-Hydroponics---Monitoring-and-Balance-by-detection/blob/Images/pumps.jpeg" width="443" height="591">
+ 
+ 
+ <ins>Solutions tank</ins>
+ 
+  <img src="https://github.com/yuvalchemke/-Hydroponics---Monitoring-and-Balance-by-detection/blob/Images/Tank%20of%20sulotion.jpeg" width="443" height="591">
+  
+
 <ins>pH sensor calibartion</ins>
 
 For doing the calibartion we took an acidic solution with a starting pH 2 and a bottle of alkaline solution, put inside it an accurate sensor and ours. 
